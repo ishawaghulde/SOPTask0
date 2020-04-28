@@ -4,14 +4,17 @@ $ git clone "URL of forked repo"
 This command clones the contents of the given repository in my account.
 
 $ git checkout -b "branch-name"
-Creates a new branch and moves into it
+Creates a new branch and moves into it.
 
 $ vim log.txt
-Opens the file in the editor
+Opens the file in the editor.
 
 <<<<<<< HEAD
 $ git add "filename"
-Adds the file to the branch
+Adds the file to the branch.
+
+$ git merge "branch-name"
+Merges branch after resolving conflicts by adding and committing the file.
 <<<<<<< HEAD
 =======
 ANSWER: EGG
