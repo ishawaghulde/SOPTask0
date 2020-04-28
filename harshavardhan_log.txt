@@ -1,0 +1,8 @@
+Git Commands and its description
+git clone "URL" - used to download git repo in local system
+git checkout -b "branch name" - used to create a side branch so that any changes made to code doesn't affect the main code(master branch).
+git branch -  used to check which branch you are in.
+git merge - to merge two branches
+git add file - to stage the file
+git commit -m "msg" - to commit the recently staged files
+git push - to upload the file to repo
