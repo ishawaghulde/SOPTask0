@@ -1,0 +1,10 @@
+Forking was done using the fork button in the given repository.
+
+$ git clone "URL of forked repo"
+This command clones the contents of the given repository in my account.
+
+$ git checkout -b "branch-name"
+Creates a new branch and moves into it
+
+$ vim log.txt
+Opens the file in the editor
