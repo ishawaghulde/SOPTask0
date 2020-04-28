@@ -1,4 +1,8 @@
 
 ## 🐔 Chicken
-* Researchers found that the formation of egg shells relies on a protein found only in a chicken's ovaries. Therefore, an egg can exist only if it has been inside a chicken. The protein - called ovocledidin-17, or OC-17 - acts as a catalyst to speed up the development of the shel.
-* Hence my answer is Chicken
+* Cloned the common github repo (link will be provided by your mentor) to my  local system.
+*	Created a branch named Satyamurti_D.
+*	In my branch, created a file named log.txt. In this file, wrote all the commands i have used to complete this task with a short description of each.
+*	Then created two branches. In one, gave a one word answer to the question posed above. In the other, explained why i have decided on that answer.
+*	Then merged the two branches.
+* Created pull request.
