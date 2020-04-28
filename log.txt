@@ -8,3 +8,6 @@ Creates a new branch and moves into it
 
 $ vim log.txt
 Opens the file in the editor
+
+$ git add "filename"
+Adds the file to the branch
