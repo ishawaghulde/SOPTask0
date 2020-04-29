@@ -5,3 +5,8 @@ ls "name of the repo" (navigating to repo)
 git branch "name" (creating a new branch)
 git branch (listing out all the branches)
 git checkout "branch name " (checking out the branch)
+git add "filename" (to stage the file)
+git status (to check the status of files)
+git commit -m "commit" (commiting changes)
+git branch (to list out branch)
+
