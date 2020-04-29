@@ -19,5 +19,7 @@ git checkout savar_shirbhate //switch branches
 mv log.txt savar_shirbhate.txt//renaiming file 
 git push origin master//push details to forked repo
 git push origin answer
+git pull origin answer
+git pull origin savar_shirbhate// pull recent changes in repo
 git push upstream master//push details to mentor repo
 git push upstream answer
