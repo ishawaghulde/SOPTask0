@@ -1,0 +1,7 @@
+commands:-
+
+git clone "forked repo link" (cloning forked repo to local directory)
+ls "name of the repo" (navigating to repo)
+git branch "name" (creating a new branch)
+git branch (listing out all the branches)
+git checkout "branch name " (checking out the branch)
