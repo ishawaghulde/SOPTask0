@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 chicken
-=======
+
 some animal evolved into a chicken
->>>>>>> explaination
