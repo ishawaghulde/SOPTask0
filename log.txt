@@ -1,0 +1,15 @@
+git branch pradeep_s to create a new branch
+git checkout pradeep_s to checkout the branch
+touch log.txt
+git add -A to add modified files to the staging area
+git commit -m "added log.txt" to commit changes to local repository
+git branch answer
+git branch explanation to create new branches
+git checkout answer to checkout the branch
+touch pradeep_answer.txt to create text file
+git add -A to add modified files to the staging area
+git commit -m "added answer to pradeep_answer.txt" to commit changes to local repository
+git checkout explanation to checkout the branch
+touch pradeep_answer.txt to create text file
+git add -A to add modified files to the staging area
+git commit -m "added explanation to pradeep_answer.txt" to commit changes to local repository
