@@ -9,4 +9,5 @@ git add "filename" (to stage the file)
 git status (to check the status of files)
 git commit -m "commit" (commiting changes)
 git branch (to list out branch)
+git merge "branch name" (merging branch)
 
