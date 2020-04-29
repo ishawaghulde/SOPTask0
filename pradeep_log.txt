@@ -13,3 +13,13 @@ git checkout explanation to checkout the branch
 touch pradeep_answer.txt to create text file
 git add -A to add modified files to the staging area
 git commit -m "added explanation to pradeep_answer.txt" to commit changes to local repository
+git merge answer to initialize merge
+code pradeep_answer.txt to resolve conflict
+git add -A to add modified files to the staging area
+git commit -m "Merged explanation and answer" to commit changes to local repository
+git branch -d answer to delete the branch
+git checkout pradeep_s to checkout the branch
+git merge explanation to merge pradeep_s and explanation
+git delete explanation to delete the branch
+git mv log.txt pradeep_log.txt to rename log file
+git push to push to remote repo
