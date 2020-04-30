@@ -9,18 +9,45 @@ Creates a new branch and moves into it.
 $ vim log.txt
 Opens the file in the editor.
 
-<<<<<<< HEAD
 $ git add "filename"
 Adds the file to the branch.
 
-$ git merge "branch-name"
-Merges branch after resolving conflicts by adding and committing the file.
-<<<<<<< HEAD
-=======
+$ git commit -m "message"
+Commits the changes made.
+
+$ git status 
+Displays the state of the working directory.
+
+$ git checkout -b answer
+Creates a new branch for answer and moves into it.
+
+...After entering the answer in the text file, add and commit the changes.
+
+$ git checkout "branch-name"
+Moves to the first created branch.
+
+$ git checkout -b reason
+Creates a new branch for reason and moves into it.
+
+...After entering the reason in the text file, add and commit the changes.
+
+$ git merge answer
+Merges branch along with the text file after resolving conflicts by adding and committing the file. 
+
+$ git merge reason
+Merges branch along with the text file after resolving conflicts by adding and committing the file.
+
+..Manually remove the confict markers in the file.
+
+$ mv log.txt name_log.txt
+Renames the file (exactly moves the contents to a newly named file)
+
+..Commit the changes
+
+$ git push -u origin branchname
+Pushes the contents of the branch to the repo.
+
 ANSWER: EGG
->>>>>>> answer
-=======
 
 REASON:
 The eggs in general (as in question), not "chicken eggs" existed long before chickens were developed. Egg laying animals existed way before chickens came about. With regards to chicken egg, a theory suggests that the present day chicken evolved from a primitive species gradually. So, the answer is egg technically. 
->>>>>>> reason
