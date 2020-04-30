@@ -1,0 +1,27 @@
+git clone <sop task file>  //cloned file to local directory
+cd //for moving into local directorygit 
+git checkout -b savar_shirbhate //new branch created and switched
+touch log.txt //log.txt file created 
+/*File filled with inventory*/
+
+git checkout -b answer //created a branch for the answer
+touch savar_ans.txt //textfile for the answer
+git add savar_ans.txt //adding file to git staged
+git checkout -b explanation //created a branch for the explanation
+echo "Explanation:
+The egg came way before the chicken.The original chickens were formed from the mutation from the red jungle fowl where the 
+crossmating between the tro proto DNA species was responsible for the formation of an egg which over time gave rise to the domestic
+chicken.">>answer.txt //for answer explanation
+/* Add file details*/
+git add savar_ans.txt //adding file to git staged
+git add log.txt //adding file to git staged
+git commit -m "" //commiting the existant files
+git checkout answer //moved to answer branch
+git merge explanation// merged the branches
+git branch -d explanation //deleted excess branch
+git checkout savar_shirbhate //switch branches 
+mv log.txt savar_shirbhate.txt//renaiming file 
+git push origin master//push details to forked repo
+git push origin answer
+git push upstream master//push details to mentor repo
+git push upstream answer
