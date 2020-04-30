@@ -9,46 +9,62 @@ Commands Used
 3. touch log.txt
    To create a new file log.txt and then write all commands used
 
-4. git checkout -b answer-oneword
+4. git add .
+   git commit -m "messaage"
+   To commit the changes made
+
+5. git checkout -b answer-oneword
    To create new branch 
    Write one word answer in log.txt
 
-5. git checkout midhuram_manoj
-   To shift to branch midhuram_manoj
-
-6. git checkout -b answer-explanation        
-   To create new branch 
-   Write explanation in log.txt
+6. git add .
+   git commit -m "messaage"
+   To commit the changes made
 
 7. git checkout midhuram_manoj
    To shift to branch midhuram_manoj
 
-8. git merge answer-oneword
+8. git checkout -b answer-explanation        
+   To create new branch 
+   Write explanation in log.txt
+
+9. git add .
+   git commit -m "messaage"
+   To commit the changes made
+
+10.git checkout midhuram_manoj
+   To shift to branch midhuram_manoj
+
+11.git merge answer-oneword
    To merge branch to midhuram_manoj
 
-9. git merge answer-explanation
+12.git merge answer-explanation
    To merge branch to midhuram_manoj   
-   Resolve conflicts
+  
+13.Resolve conflicts and commit
 
-10.mv log.txt midhuram_manoj.txt
+14.mv log.txt midhuram_manoj.txt
    To rename file log.txt
 
-11.git pull origin master
+15.git add .
+   git commit -m "messaage"
+   To commit the changes made
+
+16.git pull origin master
    To pull updates from remote file
 
-12.git add .
+17.git add .
    git commit -m "added file midhuram_manoj"
    To add and coommit all changes made
 
-13.git push origin midhuram_manoj 
+18.git push origin midhuram_manoj 
    To add the new branch to the forked repo
 
-14.Go back to original repository and create pull request
-<<<<<<< HEAD
+19.Go back to original repository and create pull request
+
  
 EGG
-=======
 
 
 Basically, many, many moons ago there was a chicken-like bird. It was genetically close to a chicken but wasn't a full-blown chicken yet. The video calls it a proto-chicken. So proto-hen laid an egg, and proto-rooster fertilized it. But when the genes from ma and pa almost-chicken fused, they combined in a new way, creating a mutation that accidentally made the baby different from its parents. Although it would take millennia for the difference to be noticed, that egg was different enough to become the official progenitor of a new species, now known as... the chicken! So in a nutshell (or an eggshell, if you like), two birds that weren't really chickens created a chicken egg, and hence, we have an answer: The egg came first, and then it hatched a chicken.
->>>>>>> answer-explanation
+
