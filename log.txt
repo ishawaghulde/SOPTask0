@@ -1,0 +1,47 @@
+Commands Used
+
+1. git clone https://github.com/Midhu7/SOPTask0.git
+   To clone the forked repo in my account to local system
+   
+2. git checkout -b midhuram_manoj
+   To create and shift to branch midhuram_manoj
+
+3. touch log.txt
+   To create a new file log.txt and then write all commands used
+
+4. git checkout -b answer-oneword
+   To create new branch 
+   Write one word answer in log.txt
+
+5. git checkout midhuram_manoj
+   To shift to branch midhuram_manoj
+
+6. git checkout -b answer-explanation        
+   To create new branch 
+   Write explanation in log.txt
+
+7. git checkout midhuram_manoj
+   To shift to branch midhuram_manoj
+
+8. git merge answer-oneword
+   To merge branch to midhuram_manoj
+
+9. git merge answer-explanation
+   To merge branch to midhuram_manoj   
+   Resolve conflicts
+
+10.mv log.txt midhuram_manoj.txt
+   To rename file log.txt
+
+11.git pull origin master
+   To pull updates from remote file
+
+12.git add .
+   git commit -m "added file midhuram_manoj"
+   To add and coommit all changes made
+
+13.git push origin midhuram_manoj 
+   To add the new branch to the forked repo
+
+14.Go back to original repository and create pull request
+ 
