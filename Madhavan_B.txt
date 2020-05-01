@@ -1,0 +1,11 @@
+This is my log file
+
+The commands which I used to complete this task are:
+
+1. $ git clone "(URL)" -> To clone the remote repository to my local repository.
+2. $ git checkout -b'(Branch Name)' -> To create a new branch and change from the present branch to the new branch.
+3. $ git add . -> To add all the files created to the staging area.
+4. $ git status -> To check the files that are in the staging area and that are untracked.
+5. $ git commit -m'(Commit message)' -> To commit my files to the local repository from the staging area.
+6. $ git merge '(Branch Name)' -> To merge the files of another branch to the present branch.
+7. $ git push -> To push the changes to the remote repository.
