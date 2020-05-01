@@ -1,0 +1,8 @@
+clone - to create a local copy of a remote repository
+status - to check the tracking status of all files in the repo
+add - to add files to the staging area
+commit - to take a snapshot of the current state of the files 
+checkout - to switch to a different commit or branch
+branch - to create branches 
+log - to check the commit history of the repo
+merge - to merge two branches into one 
