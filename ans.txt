@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+egg
+=======
+scientists and philospohers have come to a conclusion with evolutionary evidence that eggs came before chickens,but chicken eggs did not. 
+>>>>>>> pranav1

@@ -1,0 +1,7 @@
+git clone: of given remote repo to get soptask0 repo in local directory
+git branch pranav_tp: to create branch pranav_tp
+git checkout pranav_tp : to switch to pranav_tp branch.
+touch log.txt: to create file.
+touch ans.txt:to create 1 word answer
+after creating another branch with identical answer file,run git merge.
+resolve conflict by staging ans.txt with git add and then git commit.
