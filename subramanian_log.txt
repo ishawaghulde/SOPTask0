@@ -45,9 +45,4 @@ Renames the file (exactly moves the contents to a newly named file)
 ..Commit the changes
 
 $ git push -u origin branchname
-Pushes the contents of the branch to the repo.
-
-ANSWER: EGG
-
-REASON:
-The eggs in general (as in question), not "chicken eggs" existed long before chickens were developed. Egg laying animals existed way before chickens came about. With regards to chicken egg, a theory suggests that the present day chicken evolved from a primitive species gradually. So, the answer is egg technically. 
+Pushes the contents of the branch to the repo. 
