@@ -1,0 +1,19 @@
+Commands:
+
+1) git clone "forked repo link" (to clone the forked repo to local directory)
+
+2) git branch "branchName" (to create a new branch named "branchName")
+
+3) git branch (to get list of all available branches)
+
+4) git checkout "branch name" (to check branch "branch name")
+
+5) touch "filename.xyz" (to generate a file named "filename.xyz") 
+
+6) git status (to check the status of files)
+
+7) git add "filename" (to stage "filename")
+
+8) git commit -m "CommitName" (commiting changes labelled "CommitName")
+
+9) git merge "branch name" (merging active branch with "branch name")
